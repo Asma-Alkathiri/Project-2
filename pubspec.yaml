@@ -37,6 +37,11 @@ dependencies:
   another_carousel_pro: ^1.0.0
   searchfield: ^0.8.4
   animation_search_bar: ^0.0.10
+  liquid_pull_to_refresh: ^3.0.1
+  flutter_staggered_animations: ^1.1.1
+  badges: ^3.1.1
+  shimmer_animation: ^2.1.0+1
+  page_animation_transition: ^1.0.0
 
 dev_dependencies:
   flutter_test:

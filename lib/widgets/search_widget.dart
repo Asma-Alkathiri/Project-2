@@ -41,7 +41,7 @@ class _SearchWidgetState extends State<SearchWidget> {
       previousScreen: null,
       searchTextEditingController: textController,
       searchFieldDecoration: BoxDecoration(
-          color: const Color.fromARGB(255, 169, 144, 158),
+          color:p2Color,
           border: Border.all(color: Colors.black.withOpacity(.2), width: .5),
           borderRadius: BorderRadius.circular(15)),
       onChanged: (value) => searchList(value),
